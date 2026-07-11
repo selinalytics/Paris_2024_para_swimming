@@ -1,12 +1,12 @@
 # Para Swimming — Paris 2024 Paralympic Games
 
-Results and classification data for the **Para Swimming** competition at the **Paris 2024 Paralympic Games**, packaged as a clean, analysis-ready dataset and visualized in Tableau.
+Medalists and classification data for the **Para Swimming** competition at the **Paris 2024 Paralympic Games**, packaged as a clean, analysis-ready dataset and visualized in Tableau.
 
 ---
 
 ## About the data
 
-Event results are taken from the official Paris 2024 Paralympic Games results book:
+Medalists results are taken from the official Paris 2024 Paralympic Games results book:
 
 - **Results source (PDF):** [PG2024_SWM_B99 — Para Swimming results book](https://www.paralympic.org/sites/default/files/2025-10/PG2024_SWM_B99_SWM-------------------------------.pdf)
 - **Classification information:** [World Para Swimming — Classification](https://www.paralympic.org/swimming/classification)
